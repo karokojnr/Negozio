@@ -38,5 +38,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/karokojnr/Grub/blob/master/LICENSE)
+[MIT](https://github.com/karokojnr/Negozio/blob/master/LICENSE)
 
